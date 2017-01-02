@@ -9,4 +9,4 @@ layout: page
 
 **Dream, structure, decide, build.**
 
-Let's do this!
+Coming soon...
