@@ -7,6 +7,6 @@ layout: page
 
 ## The actdiff manifesto
 
-**Dream, structure, decide, build.**
+**Dream, structure, build change. Together.**
 
 Coming soon...
