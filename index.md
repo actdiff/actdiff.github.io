@@ -5,7 +5,7 @@
 layout: page
 ---
 
-## The actdiff manifesto
+# The actdiff manifesto
 
 **Dream, structure, build change. Together.**
 
